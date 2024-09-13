@@ -1,0 +1,10 @@
+using System;
+int idade = 16;
+if (idade >= 18);
+{
+    Console.WriteLine("pode tirar a carteira");
+}
+if (idade < 18);
+{
+    Console.WriteLine("nao pode tirar a carteira");
+}
